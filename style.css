@@ -1,0 +1,77 @@
+.normal {
+    width: 500px;
+    height: 250px;
+    margin-top: 10px;
+    background-color: aqua;
+}
+.primeiro {
+    width: 100px;
+    height: 50px;
+    margin-top: 10px;
+    background-color: cadetblue;
+}
+.segundo {
+    width: 100px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: coral;
+}
+.terceiro{
+    width: 100px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color:cornflowerblue;
+}
+p{
+    background-color: burlywood;
+    width: 400px;
+    height: 100px;
+}
+.inline > strong {
+    margin-right: 100px;
+    margin-top: 400px;
+    margin-bottom: 100px;
+}
+.relative {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
+.first {
+    position: relative;
+    left: 10px;
+    right: 5px;
+    background-color: chocolate;
+}
+.second {
+    position: relative;
+    left: 100px;
+    top: 10px;
+    background-color:bisque;
+}
+.float {
+    width: 200px;
+    height: 200px;
+    background-color:blue;
+}
+.um_float{
+    width: 100px;
+    height: 100px;
+    float: right;
+    background-color: cornflowerblue;
+}
+.dois_float{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: chartreuse;
+
+}
+.três_float{
+    width: 100px;
+    height: 100px;
+    float: right;
+    background-color: coral;
+}
